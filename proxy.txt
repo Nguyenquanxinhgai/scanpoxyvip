@@ -1,0 +1,11 @@
+lệnh chạy poxy siêu vip của Quan Bi
+
+
+pip install requests beautifulsoup4
+
+
+
+chmod +x bi_proxy_scanner.py
+
+python bi_proxy_scanner.py -s free1 -w 50 -o proxies.txt
+
